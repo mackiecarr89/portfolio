@@ -1,0 +1,1 @@
+import{r as t}from"./fNwmI6M7.js";import e from"./DEBHLqGD.js";import{y as n,E as s,h as a,w as i,I as p}from"./ZCCLV6J7.js";import"./iik6CYzq.js";const d={__name:"ProseNote",setup(c){const o=n();return(r,f)=>(a(),s(e,{color:"info",icon:p(o).ui.icons.info},{default:i(()=>[t(r.$slots,"default",{mdcUnwrap:"p"})]),_:3},8,["icon"]))}};export{d as default};
